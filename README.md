@@ -1,4 +1,4 @@
-20203080 SUN
+20203080    SUN
 
 Kookmin Univ. SW
 
